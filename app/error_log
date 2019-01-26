@@ -1,0 +1,2 @@
+[10-Apr-2017 14:28:36 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/bananegypt/public_html/app/Category.php on line 7
+[10-Apr-2017 14:28:37 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/bananegypt/public_html/app/Category.php on line 7
